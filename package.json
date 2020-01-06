@@ -1,0 +1,27 @@
+{
+  "name": "routing-templating-madlibs",
+  "version": "1.0.0",
+  "description": "For each exercise, create a new node project (with `npm init -y`). Make each project its own git repo.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radishmouse/routing-templating-madlibs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radishmouse/routing-templating-madlibs/issues"
+  },
+  "homepage": "https://github.com/radishmouse/routing-templating-madlibs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
